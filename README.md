@@ -1,0 +1,2 @@
+# Data_ALE-in-sensor-Node
+Using Exploratory Data Analysis to carry out investigation, spot anomalies and visualize assumptions and predictions. In the process of working on this project, I came across some difficulties, one which I had to change Data Sets two times and I had to do little research and also go back to the Classes we had with my instructors. I think with the help of the Lesson Notes (Materials and Recordings) and the research I was able to complete my project.
